@@ -13,3 +13,5 @@ myLabel.pack()
 
 #we need an event loop. it is always looping 
 root.mainloop()
+
+#RUN IN COMMAND LINE
