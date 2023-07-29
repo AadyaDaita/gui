@@ -19,3 +19,5 @@ my_label.pack(pady=20)
 
 root.mainloop()
 
+#RUN IN COMMAND LINE
+
